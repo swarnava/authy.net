@@ -76,4 +76,4 @@ All of the methods return a result object specific to the call. There is always 
 
 ## Copyright
 
-Copyright (c) 2015-2020 Authy Inc. See [LICENSE.txt](https://github.com/twilio/authy.net/blob/master/LICENSE.txt) for further details.
+Copyright (c) 2015-2021 Authy Inc. See [LICENSE.txt](https://github.com/twilio/authy.net/blob/master/LICENSE.txt) for further details.
